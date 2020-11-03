@@ -1,0 +1,7 @@
+.mbc-box-gray-small {background-color: lightgray; border: 5px outset gray; width: 25%; height: 25%;}
+.mbc-box-gray-medium {background-color: lightgray; border: 15px outset gray; width: 50%; height: 50%;}
+.mbc-box-gray-large {background-color: lightgray; border: 25px outset gray; width: 75%; height: 75%;}
+
+.mbc-box-gold-small {background-color: yellow; border: 5px outset gold; width: 25%; height: 25%;}
+.mbc-box-gold-medium {background-color: yellow; border: 15px outset gold; width: 50%; height: 50%;}
+.mbc-box-gold-large {background-color: yellow; border: 25px outset gold; width: 75%; height: 75%;}
