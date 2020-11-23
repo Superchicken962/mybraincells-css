@@ -1,7 +1,11 @@
 body {
 background-color: blue;
 color: white;
-content: "YOU HAVE BEEN PRANKED BY MYBRAINCELLS.CF!";
+}
+
+body:after {
+content: "YOU HAVE BEEN HACKED BY MYBRAINCELLS.CF!";
+content: "VISIT MYBRAINCELLS.CF OR MYBRAINCELLS.TK TODAY!!";
 }
 
 p {
