@@ -6,6 +6,10 @@ color: white;
 body:after {
 font-size: 125px;
 content: "YOU HAVE BEEN HACKED BY MYBRAINCELLS.CF!";
+}
+
+body:after {
+font-size: 125px;
 content: "VISIT MYBRAINCELLS.CF OR MYBRAINCELLS.TK TODAY!!";
 }
 
